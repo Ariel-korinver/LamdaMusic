@@ -1,0 +1,10 @@
+C:\Users\Ariel\Documents\2015\CICLO II\PROGRAMACIÓN III\PROYECTO DE CATEDRA\Lambda_Music\Lambda_Music\bin\Debug\Lambda_Music.exe.config
+C:\Users\Ariel\Documents\2015\CICLO II\PROGRAMACIÓN III\PROYECTO DE CATEDRA\Lambda_Music\Lambda_Music\bin\Debug\Lambda_Music.exe
+C:\Users\Ariel\Documents\2015\CICLO II\PROGRAMACIÓN III\PROYECTO DE CATEDRA\Lambda_Music\Lambda_Music\bin\Debug\Lambda_Music.pdb
+C:\Users\Ariel\Documents\2015\CICLO II\PROGRAMACIÓN III\PROYECTO DE CATEDRA\Lambda_Music\Lambda_Music\obj\Debug\Lambda_Music.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Documents\2015\CICLO II\PROGRAMACIÓN III\PROYECTO DE CATEDRA\Lambda_Music\Lambda_Music\obj\Debug\Lambda_Music.Form2.resources
+C:\Users\Ariel\Documents\2015\CICLO II\PROGRAMACIÓN III\PROYECTO DE CATEDRA\Lambda_Music\Lambda_Music\obj\Debug\Lambda_Music.Login.resources
+C:\Users\Ariel\Documents\2015\CICLO II\PROGRAMACIÓN III\PROYECTO DE CATEDRA\Lambda_Music\Lambda_Music\obj\Debug\Lambda_Music.Properties.Resources.resources
+C:\Users\Ariel\Documents\2015\CICLO II\PROGRAMACIÓN III\PROYECTO DE CATEDRA\Lambda_Music\Lambda_Music\obj\Debug\Lambda_Music.csproj.GenerateResource.Cache
+C:\Users\Ariel\Documents\2015\CICLO II\PROGRAMACIÓN III\PROYECTO DE CATEDRA\Lambda_Music\Lambda_Music\obj\Debug\Lambda_Music.exe
+C:\Users\Ariel\Documents\2015\CICLO II\PROGRAMACIÓN III\PROYECTO DE CATEDRA\Lambda_Music\Lambda_Music\obj\Debug\Lambda_Music.pdb
